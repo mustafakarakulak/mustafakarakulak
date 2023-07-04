@@ -1,7 +1,5 @@
 ### Mustafa Karakulak
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=mustafakarakulak&theme=highcontrast)](https://git.io/streak-stats)
-</p>
 <p align="center">
 <img src="https://media.giphy.com/media/12qj9BbWNWbnz2/giphy.gif" align="right" height="400" width="300" >
 </p>
